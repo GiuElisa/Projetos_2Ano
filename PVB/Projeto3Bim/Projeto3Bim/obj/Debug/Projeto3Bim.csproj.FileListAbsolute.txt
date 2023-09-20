@@ -1,0 +1,10 @@
+C:\Giulia\Univap\2° ano\Informática\C#\Projetos\Projeto3Bim\Projeto3Bim\bin\Debug\Projeto3Bim.exe.config
+C:\Giulia\Univap\2° ano\Informática\C#\Projetos\Projeto3Bim\Projeto3Bim\bin\Debug\Projeto3Bim.exe
+C:\Giulia\Univap\2° ano\Informática\C#\Projetos\Projeto3Bim\Projeto3Bim\bin\Debug\Projeto3Bim.pdb
+C:\Giulia\Univap\2° ano\Informática\C#\Projetos\Projeto3Bim\Projeto3Bim\obj\Debug\Projeto3Bim.csproj.AssemblyReference.cache
+C:\Giulia\Univap\2° ano\Informática\C#\Projetos\Projeto3Bim\Projeto3Bim\obj\Debug\Projeto3Bim.Form1.resources
+C:\Giulia\Univap\2° ano\Informática\C#\Projetos\Projeto3Bim\Projeto3Bim\obj\Debug\Projeto3Bim.Properties.Resources.resources
+C:\Giulia\Univap\2° ano\Informática\C#\Projetos\Projeto3Bim\Projeto3Bim\obj\Debug\Projeto3Bim.csproj.GenerateResource.cache
+C:\Giulia\Univap\2° ano\Informática\C#\Projetos\Projeto3Bim\Projeto3Bim\obj\Debug\Projeto3Bim.csproj.CoreCompileInputs.cache
+C:\Giulia\Univap\2° ano\Informática\C#\Projetos\Projeto3Bim\Projeto3Bim\obj\Debug\Projeto3Bim.exe
+C:\Giulia\Univap\2° ano\Informática\C#\Projetos\Projeto3Bim\Projeto3Bim\obj\Debug\Projeto3Bim.pdb
